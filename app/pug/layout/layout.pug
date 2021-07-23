@@ -1,0 +1,19 @@
+include ../data/**/*
+include ../mixins/mixins
+
+doctype html
+html(lang="en")
+  include ../parts/head
+
+  body.body#body
+    block header
+      include ../parts/header
+
+    block content
+      h2 Here will be main content
+
+    block footer
+      include ../parts/footer
+
+    block scripts
+      script(src="js/main.min.js")

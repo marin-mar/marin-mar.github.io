@@ -1,0 +1,30 @@
+main.main#main
+  .container
+    section.section#about
+      .test
+      h1.about__title.title
+        | Welcome to Personal Portfolio Webpage
+        | of web developer <b>marinmar<b>
+
+      .about
+        .about__wrapper.wrapper
+          h2.about__subtitle.subtitle About me
+          p.about__text.text My name is Marina, I am frontend-web-developer.
+
+      .technologies
+        h2.about__subtitle.subtitle Used technologies
+        .technologies__wrapper.wrapper
+          include technologies
+
+      .certificats
+        h2.about__subtitle.subtitle My certificats
+        .certificats__wrapper.wrapper
+          include certificats
+
+
+    section.section.works#works
+      h2.works__subtitle.subtitle Some works for your attention
+        .works__wrapper.wrapper
+          include works
+
+

@@ -1,0 +1,18 @@
+mixin certificats(certificatLink, certificatImgLink, certificatImgAlt)
+  .certificat
+    a.certificat__link(href=`${certificatLink}`, target="_blank")
+      img.certificat__img(src=`${certificatImgLink}`, alt=`${certificatImgAlt}`)
+
+mixin works(title, description, imgSrc, imgAlt, previewLink, codeLink)
+  .works__item.work
+    h3.work__title.text #{title}
+    p.work__text.text #{description}
+    img.work__img(src=`${imgSrc}`, alt=`${imgAlt}`)
+    .work__links
+      a.work__link.link(href=`${previewLink}`, target="_blank") Site preview
+      a.work__link.link(href=`${codeLink}`, target="_blank") Site code
+
+mixin technologies(imgSrc, imgAlt, description)
+  .technologies__item.technology
+    img.technology__img(src=`${imgSrc}`, alt=`${imgAlt}`)
+    p.technology__text #{description}
