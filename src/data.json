@@ -1,0 +1,196 @@
+{
+  "menu": ["menuItem1", "menuItem2", "menuItem3", "menuItem4"],
+  "header": {
+    "brand": "marinmar",
+    "menuEn": ["Works", "About", "Contacts"],
+    "menuRu": ["Работы", "Обо мне", "Контакты"],
+    "titleEn": "Welcome to Personal Portfolio Webpage",
+    "titleRu": "Добро пожаловать на страницу веб-портфолио",
+    "subtitleEn": "of web developer marinmar",
+    "subtitleRu": "верстальщика marinmar",
+    "btn-1En": "Works",
+    "btn-1Ru": "Работы",
+    "btn-2En": "About",
+    "btn-2Ru": "Обо мне"
+  },
+  "works": [
+    {
+      "id": "Construction",
+      "title": "Landing Page for Construction",
+      "titleRu": "Лэндинг строительной компании",
+      "text": "Created using MDB (Material Design for Bootstrap v5)",
+      "textRu": "Создано с использованием MDB (Material Design for Bootstrap v5)",
+      "src": "../Images/works_Construction.jpg",
+      "link": "https://marin-mar.github.io/008_marin-mar_construction_mdb/"
+    },
+    {
+      "id": "Jewelry",
+      "title": "Site fo Jewelry Store",
+      "titleRu": "Сайт для Ювелирного Магазина",
+      "text": "Created in React using Bootstrap components",
+      "textRu": "Создано в React с использованием компонентов Bootstrap",
+      "src": "../Images/works_Jewelry.jpg",
+      "link": "https://marin-mar.github.io/007_marin-mar_jewelry.github.io_react_bootstrap"
+    },
+    {
+      "id": "Resorts",
+      "title": "Landing Page for the Agency of homes in resorts",
+      "titleRu": "Лэндинг для агентства по выбору домов на курортах",
+      "text": "Landing Page for the Agency of choosing homes in resort areas",
+      "textRu": "Лэндинг для агентства по выбору домов на курортах",
+      "src": "../Images/works_Resorts.jpg",
+      "link": "https://codepen.io/marinmar/full/jOBqqaK"
+    },
+    {
+      "id": "Photographer",
+      "title": "Landing page for web-photographer",
+      "titleRu": "Лэндинг для фотографа",
+      "text": "Landing page (portfolio) for web-photographer. Mockup from psd",
+      "textRu": "Лэндинг, портфолио) для фотографа. Макет из psd",
+      "src": "../Images/works_Photographer.jpg",
+      "link": "https://marin-mar.github.io/001_marin-mar_photoportfolio.github.io/"
+    },
+    {
+      "id": "Festival",
+      "title": "Landing page for Music Festival",
+      "titleRu": "Лэндинг для музыкального фестиваля",
+      "text": "Landing page for Music Festival. Mockup from psd",
+      "textRu": "Лэндинг для музыкального фестиваля. Макет из psd",
+      "src": "../Images/works_Festival.jpg",
+      "link": "https://marin-mar.github.io/002_marin-mar_music_festival.github.io/"
+    },
+    {
+      "id": "Marathon",
+      "title": "Landing page for Interior Design Studio",
+      "titleRu": "Лэндинг для Студии Интерьеров",
+      "text": "Landing page from the HTML-Academy Marathon. Mockup from Figma",
+      "textRu": "Лэндинг с Марафона HTML-Academy. Макет из Figma",
+      "src": "../Images/works_Marathon.jpg",
+      "link": "https://marin-mar.github.io/003_marin-mar_marafon_zaverstayu.github.io/"
+    },
+    {
+      "id": "INEFF",
+      "title": "Start page for INEFF",
+      "titleRu": "Первая страница для INEFF",
+      "text": "Start page for INEFF. Mockup from Figma",
+      "textRu": "Первая страница для INEFF. Макет из Figma",
+      "src": "../Images/works_INEFF.jpg",
+      "link": "https://marin-mar.github.io/005_marin-mar_ineff_page.github.io/"
+    }
+  ],
+  "certificats": [
+    {
+      "id": "ResponsiveWebDesign",
+      "link": "https://www.freecodecamp.org/certification/marinmar/responsive-web-design",
+      "src": "../Images/certificats_ResponsiveWebDesign.jpg",
+      "alt": "freeCodeCamp.org Responsive Web Design Developer Certification"
+    },
+    {
+      "id": "JavaScriptAlgorithms",
+      "link": "https://www.freecodecamp.org/certification/marinmar/javascript-algorithms-and-data-structures",
+      "src": "../Images/certificats_JavaScriptAlgorithms.jpg",
+      "alt": "freeCodeCamp.org JavaScript Algorithms and Data Structures Certification"
+    },
+    {
+      "id": "Skillfactory",
+      "link": "../Images/certificats_Skillfactory.jpg",
+      "src": "../Images/certificats_Skillfactory.jpg",
+      "alt": "Online college Skillfactory Layout design Certification"
+    },
+    {
+      "id": "Stepik",
+      "link": "https://stepik.org/cert/752688",
+      "src": "../Images/certificats_Stepik.jpg",
+      "alt": "Stepik.org Web development: HTML and CSS Certification"
+    }
+  ],
+  "skills": [
+    {
+      "id": "HTML",
+      "icon": "../Images/skills_HTML.svg"
+    },
+    {
+      "id": "CSS",
+      "icon": "../Images/skills_CSS.svg"
+    },
+    {
+      "id": "JavaScript",
+      "icon": "../Images/skills_JS.svg"
+    },
+    {
+      "id": "React",
+      "icon": "../Images/skills_React.svg"
+    },
+    {
+      "id": "Bootstrap5",
+      "icon": "../Images/skills_Bootstrap.svg"
+    },
+    {
+      "id": "Pug",
+      "icon": "../Images/skills_Pug.svg"
+    },
+    {
+      "id": "Scss/Sass",
+      "icon": "../Images/skills_Sass.svg"
+    },
+    {
+      "id": "VSCode",
+      "icon": "../Images/skills_VSCode.svg"
+    },
+    {
+      "id": "npm",
+      "icon": "../Images/skills_npm.svg"
+    },
+    {
+      "id": "Gulp",
+      "icon": "../Images/skills_Gulp.svg"
+    },
+    {
+      "id": "GitHub",
+      "icon": "../Images/skills_GitHub.svg"
+    },
+    {
+      "id": "Photoshop",
+      "icon": "../Images/skills_Photoshop.svg"
+    },
+    {
+      "id": "Figma",
+      "icon": "../Images/skills_Figma.svg"
+    },
+    {
+      "id": "Zeplin",
+      "icon": "../Images/skills_Zeplin.png"
+    },
+    {
+      "id": "Pixel Perfect",
+      "icon": "../Images/skills_PixelPerfect.png"
+    },
+    {
+      "id": "Cross-browser",
+      "icon": "../Images/skills_CrossBrowser.png"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "email",
+      "text": "Email",
+      "src": "../Images/contacts_email.png",
+      "link": "mailto:marinmar6@yandex.ru",
+      "btn": "Send"
+    },
+    {
+      "id": "github",
+      "text": "GitHub",
+      "src": "../Images/contacts_github.png",
+      "link": "https://github.com/marin-mar?tab=repositories",
+      "btn": "Visit"
+    },
+    {
+      "id": "codepen",
+      "text": "CodePen",
+      "src": "../Images/contacts_codepen.png",
+      "link": "https://codepen.io/marinmar/pens/public",
+      "btn": "Visit"
+    }
+  ]
+}
