@@ -30,7 +30,7 @@
       "text": "Created in React using Bootstrap components",
       "textRu": "Создано в React с использованием компонентов Bootstrap",
       "src": "../Images/works_Jewelry.jpg",
-      "link": "https://marin-mar.github.io/007_marin-mar_jewelry.github.io_react_bootstrap.#"
+      "link": "https://marin-mar.github.io/007_marin-mar_jewelry.github.io_react_bootstrap"
     },
     {
       "id": "Resorts",
@@ -133,13 +133,6 @@
   ],
   "contacts": [
     {
-      "id": "email",
-      "text": "Email",
-      "src": "../Images/contacts_email.png",
-      "link": "mailto:marinmar6@yandex.ru",
-      "btn": "Send"
-    },
-    {
       "id": "github",
       "text": "GitHub",
       "src": "../Images/contacts_github.png",
@@ -152,6 +145,13 @@
       "src": "../Images/contacts_codepen.png",
       "link": "https://codepen.io/marinmar/pens/public",
       "btn": "Visit"
+    },
+    {
+      "id": "email",
+      "text": "Email",
+      "src": "../Images/contacts_email.png",
+      "link": "mailto:marinmar6@yandex.ru",
+      "btn": "Send"
     }
   ]
 }
