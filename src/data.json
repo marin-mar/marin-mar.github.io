@@ -30,7 +30,7 @@
       "text": "Created in React using Bootstrap components",
       "textRu": "Создано в React с использованием компонентов Bootstrap",
       "src": "../Images/works_Jewelry.jpg",
-      "link": "https://marin-mar.github.io/007_marin-mar_jewelry.github.io_react_bootstrap"
+      "link": "https://marin-mar.github.io/007_marin-mar_jewelry.github.io_react_bootstrap.#"
     },
     {
       "id": "Resorts",
@@ -40,33 +40,6 @@
       "textRu": "Лэндинг для агентства по выбору домов на курортах",
       "src": "../Images/works_Resorts.jpg",
       "link": "https://codepen.io/marinmar/full/jOBqqaK"
-    },
-    {
-      "id": "Photographer",
-      "title": "Landing page for web-photographer",
-      "titleRu": "Лэндинг для фотографа",
-      "text": "Landing page (portfolio) for web-photographer. Mockup from psd",
-      "textRu": "Лэндинг, портфолио) для фотографа. Макет из psd",
-      "src": "../Images/works_Photographer.jpg",
-      "link": "https://marin-mar.github.io/001_marin-mar_photoportfolio.github.io/"
-    },
-    {
-      "id": "Festival",
-      "title": "Landing page for Music Festival",
-      "titleRu": "Лэндинг для музыкального фестиваля",
-      "text": "Landing page for Music Festival. Mockup from psd",
-      "textRu": "Лэндинг для музыкального фестиваля. Макет из psd",
-      "src": "../Images/works_Festival.jpg",
-      "link": "https://marin-mar.github.io/002_marin-mar_music_festival.github.io/"
-    },
-    {
-      "id": "Marathon",
-      "title": "Landing page for Interior Design Studio",
-      "titleRu": "Лэндинг для Студии Интерьеров",
-      "text": "Landing page from the HTML-Academy Marathon. Mockup from Figma",
-      "textRu": "Лэндинг с Марафона HTML-Academy. Макет из Figma",
-      "src": "../Images/works_Marathon.jpg",
-      "link": "https://marin-mar.github.io/003_marin-mar_marafon_zaverstayu.github.io/"
     },
     {
       "id": "INEFF",
@@ -90,18 +63,6 @@
       "link": "https://www.freecodecamp.org/certification/marinmar/javascript-algorithms-and-data-structures",
       "src": "../Images/certificats_JavaScriptAlgorithms.jpg",
       "alt": "freeCodeCamp.org JavaScript Algorithms and Data Structures Certification"
-    },
-    {
-      "id": "Skillfactory",
-      "link": "../Images/certificats_Skillfactory.jpg",
-      "src": "../Images/certificats_Skillfactory.jpg",
-      "alt": "Online college Skillfactory Layout design Certification"
-    },
-    {
-      "id": "Stepik",
-      "link": "https://stepik.org/cert/752688",
-      "src": "../Images/certificats_Stepik.jpg",
-      "alt": "Stepik.org Web development: HTML and CSS Certification"
     }
   ],
   "skills": [

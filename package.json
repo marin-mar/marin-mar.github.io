@@ -29,12 +29,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "imgmin-pngquant": "imagemin src/Images/**/*./png --plugin.pngquant.quality=0.6 --out-dir=public/Images/",
-    "imgmin-mozjpeg": "imagemin src/Images/**/*.jpg --plugin.mozjpeg.quality=60 --out-dir=public/Images/",
-    "imgmin-webp": "imagemin src/Images/**/*.jpg --plugin.webp.quality=60 --out-dir=public/Images/",
-    "imgmin": "npm run imgmin-mozjpeg && npm run imgmin-webp && cp -r src/Images/**/*.svg public/Images/",
-    "delImg": "rm -rf public/Images",
-    "predeploy": "npm run build",
+    "src2publicImg": "rm -rf public/Images && cp -a src/Images/. public/Images",
+    "src2publicLang": "rm -rf public/locales && cp -a src/locales/. public/locales",
+    "src2public": "npm run src2publicImg && npm run src2publicLang",
+    "predeploy": "npm run src2public && npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
