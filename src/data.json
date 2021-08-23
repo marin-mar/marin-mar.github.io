@@ -15,6 +15,15 @@
   },
   "works": [
     {
+      "id": "Bakery",
+      "title": "Landing Page for Bakery",
+      "titleRu": "Лэндинг пекарни Bakery",
+      "text": "Created using HTML, SCSS, JQuery",
+      "textRu": "Создано с использованием HTML, SCSS, JQuery",
+      "src": "../Images/works_bakery.jpg",
+      "link": "https://marin-mar.github.io/009_bakery_jquery/"
+    },
+    {
       "id": "Construction",
       "title": "Landing Page for Construction",
       "titleRu": "Лэндинг строительной компании",
@@ -40,15 +49,6 @@
       "textRu": "Лэндинг для агентства по выбору домов на курортах",
       "src": "../Images/works_Resorts.jpg",
       "link": "https://codepen.io/marinmar/full/jOBqqaK"
-    },
-    {
-      "id": "INEFF",
-      "title": "Start page for INEFF",
-      "titleRu": "Первая страница для INEFF",
-      "text": "Start page for INEFF. Mockup from Figma",
-      "textRu": "Первая страница для INEFF. Макет из Figma",
-      "src": "../Images/works_INEFF.jpg",
-      "link": "https://marin-mar.github.io/005_marin-mar_ineff_page.github.io/"
     }
   ],
   "certificats": [
@@ -83,16 +83,20 @@
       "icon": "../Images/skills_React.svg"
     },
     {
+      "id": "Scss/Sass",
+      "icon": "../Images/skills_Sass.svg"
+    },
+    {
       "id": "Bootstrap5",
       "icon": "../Images/skills_Bootstrap.svg"
     },
     {
-      "id": "Pug",
-      "icon": "../Images/skills_Pug.svg"
+      "id": "jQuery",
+      "icon": "../Images/skills_jQuery.svg"
     },
     {
-      "id": "Scss/Sass",
-      "icon": "../Images/skills_Sass.svg"
+      "id": "Pug",
+      "icon": "../Images/skills_Pug.svg"
     },
     {
       "id": "VSCode",
