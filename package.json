@@ -1,5 +1,5 @@
 {
-  "name": "000_marin-mar_portfolio_react",
+  "name": "000_portfolio_react",
   "version": "0.1.0",
   "homepage": "https://marin-mar.github.io/",
   "description": "marinmar's portfolio",
@@ -15,7 +15,6 @@
     "i18next-browser-languagedetector": "^6.1.2",
     "i18next-fs-backend": "^1.1.1",
     "i18next-http-backend": "^1.3.0",
-    "node-sass": "^6.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-i18next": "^11.11.4",
@@ -52,5 +51,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "sass": "^1.38.0"
   }
 }
