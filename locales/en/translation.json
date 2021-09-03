@@ -49,5 +49,7 @@
   "Посмотреть репозитории на GitHub": "View repositories on GitHub",
   "Посмотреть работы на CodePen": "View works on CodePen",
   "Лэндинг пекарни Bakery": "Landing Page for Bakery",
-  "Создано с использованием HTML, SCSS, JQuery": "Created using HTML, SCSS, JQuery"
+  "Создано с использованием HTML, SCSS, JQuery": "Created using HTML, SCSS, JQuery",
+  "Лэндинг страхования Insurance": "Landing Page for Insurance",
+  "HTML, SCSS, JavaScript, BEM, сборка Gulp, изображения webp, минификация, валидация W3C и PageSpeedInsights 100%": "HTML, CSS, JavaScript, BEM, Gulp build, webp images, minification, W3C validation and PageSpeedInsights 100%"
 }
