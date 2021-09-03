@@ -15,6 +15,15 @@
   },
   "works": [
     {
+      "id": "Insurance",
+      "title": "Landing Page for Insurance",
+      "titleRu": "Лэндинг страхования Insurance",
+      "text": "HTML, CSS, JavaScript, BEM, Gulp build, webp images, minification, W3C validation and PageSpeedInsights 100%",
+      "textRu": "HTML, SCSS, JavaScript, BEM, сборка Gulp, изображения webp, минификация, валидация W3C и PageSpeedInsights 100%",
+      "src": "../Images/works_insurance.jpg",
+      "link": "https://marin-mar.github.io/011_insurance/"
+    },
+    {
       "id": "Bakery",
       "title": "Landing Page for Bakery",
       "titleRu": "Лэндинг пекарни Bakery",
