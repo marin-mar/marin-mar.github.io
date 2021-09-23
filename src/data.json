@@ -15,13 +15,31 @@
   },
   "works": [
     {
+      "id": "Furniture",
+      "title": "Landing Page of the furniture store",
+      "titleRu": "Лэндинг магазина мебели",
+      "text": "HTML, SCSS, JavaScript, BEM, Gulp build, webp images, minification, W3C validation, PageSpeedInsights 95%, json rendering",
+      "textRu": "HTML, SSCSS, JavaScript, BEM, сборка Gulp, изображения webp, минификация, валидация W3C, PageSpeedInsights 95%, загрузка из json",
+      "src": "../Images/works_Furniture.jpg",
+      "link": "https://marin-mar.github.io/furniture/"
+    },
+    {
+      "id": "Motoring",
+      "title": "Landing Page of the service for cars",
+      "titleRu": "Лэндинг сервиса для автомобилей",
+      "text": "HTML, CSS, JavaScript, BEM, Gulp build, json rendering, webp images, minification, W3C validation",
+      "textRu": "HTML, SCSS, JavaScript, BEM, сборка Gulp, загрузка из json, изображения webp, минификация, валидация W3C",
+      "src": "../Images/works_Motoring.jpg",
+      "link": "https://marin-mar.github.io/motoring/"
+    },
+    {
       "id": "Insurance",
       "title": "Landing Page for Insurance",
       "titleRu": "Лэндинг страхования Insurance",
       "text": "HTML, CSS, JavaScript, BEM, Gulp build, webp images, minification, W3C validation and PageSpeedInsights 100%",
       "textRu": "HTML, SCSS, JavaScript, BEM, сборка Gulp, изображения webp, минификация, валидация W3C и PageSpeedInsights 100%",
       "src": "../Images/works_insurance.jpg",
-      "link": "https://marin-mar.github.io/011_insurance/"
+      "link": "https://marin-mar.github.io/insurance/"
     },
     {
       "id": "Bakery",
@@ -30,7 +48,7 @@
       "text": "Created using HTML, SCSS, JQuery",
       "textRu": "Создано с использованием HTML, SCSS, JQuery",
       "src": "../Images/works_bakery.jpg",
-      "link": "https://marin-mar.github.io/009_bakery_jquery/"
+      "link": "https://marin-mar.github.io/bakery/"
     },
     {
       "id": "Construction",
@@ -39,7 +57,7 @@
       "text": "Created using MDB (Material Design for Bootstrap v5)",
       "textRu": "Создано с использованием MDB (Material Design for Bootstrap v5)",
       "src": "../Images/works_Construction.jpg",
-      "link": "https://marin-mar.github.io/008_marin-mar_construction_mdb/"
+      "link": "https://marin-mar.github.io/construction/"
     },
     {
       "id": "Jewelry",
@@ -48,7 +66,7 @@
       "text": "Created in React using Bootstrap components",
       "textRu": "Создано в React с использованием компонентов Bootstrap",
       "src": "../Images/works_Jewelry.jpg",
-      "link": "https://marin-mar.github.io/007_marin-mar_jewelry.github.io_react_bootstrap"
+      "link": "https://marin-mar.github.io/jewelry"
     },
     {
       "id": "Resorts",
@@ -58,6 +76,15 @@
       "textRu": "Лэндинг для агентства по выбору домов на курортах",
       "src": "../Images/works_Resorts.jpg",
       "link": "https://codepen.io/marinmar/full/jOBqqaK"
+    },
+    {
+      "id": "Ineff",
+      "title": "The first page of Ineff",
+      "titleRu": "Первая страница Ineff",
+      "text": "Design from Figma, for all screen sizes. Written in HTML, CSS, with an external file download",
+      "textRu": "Дизайн из Figma, для всех размеров экранов. Написано на HTML, CSS, есть загрузка внешнего файла",
+      "src": "../Images/works_INEFF.jpg",
+      "link": "https://marin-mar.github.io/ineff/"
     }
   ],
   "certificats": [
@@ -72,6 +99,12 @@
       "link": "https://www.freecodecamp.org/certification/marinmar/javascript-algorithms-and-data-structures",
       "src": "../Images/certificats_JavaScriptAlgorithms.jpg",
       "alt": "freeCodeCamp.org JavaScript Algorithms and Data Structures Certification"
+    },
+    {
+      "id": "JavaScriptAlgorithms",
+      "link": "../Images/certificats_TemplateMonster_HTML,CSS.jpg",
+      "src": "../Images/certificats_TemplateMonster_HTML,CSS.jpg",
+      "alt": "HTML5,CSS Certification by TemplateMonster.jpg"
     }
   ],
   "skills": [

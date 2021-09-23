@@ -51,5 +51,11 @@
   "Landing Page for Bakery": "Лэндинг пекарни Bakery",
   "Created using HTML, SCSS, JQuery": "Создано с использованием HTML, SCSS, JQuery",
   "Landing Page for Insurance": "Лэндинг страхования Insurance",
-  "HTML, CSS, JavaScript, BEM, Gulp build, webp images, minification, W3C validation and PageSpeedInsights 100%": "HTML, SCSS, JavaScript, BEM, сборка Gulp, изображения webp, минификация, валидация W3C и PageSpeedInsights 100%"
+  "HTML, CSS, JavaScript, BEM, Gulp build, webp images, minification, W3C validation and PageSpeedInsights 100%": "HTML, SCSS, JavaScript, BEM, сборка Gulp, изображения webp, минификация, валидация W3C и PageSpeedInsights 100%",
+  "The first page of Ineff" : "Первая страница Ineff",
+  "Design from Figma, for all screen sizes. Written in HTML, CSS, with an external file download" : "Дизайн из Figma, для всех размеров экранов. Написано на HTML, CSS, есть загрузка внешнего файла",
+  "Landing Page of the service for cars" : "Лэндинг сервиса для автомобилей",
+  "HTML, CSS, JavaScript, BEM, Gulp build, json rendering, webp images, minification, W3C validation" : "HTML, SCSS, JavaScript, BEM, сборка Gulp, загрузка из json, изображения webp, минификация, валидация W3C",
+  "Landing Page of the furniture store" : "Лэндинг магазина мебели",
+  "HTML, SCSS, JavaScript, BEM, Gulp build, webp images, minification, W3C validation, PageSpeedInsights 95%, json rendering" : "HTML, SSCSS, JavaScript, BEM, сборка Gulp, изображения webp, минификация, валидация W3C, PageSpeedInsights 95%, загрузка из json"
 }
