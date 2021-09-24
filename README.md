@@ -5,6 +5,8 @@
 - Была версия на Pug, переделано на React.<br>
 - Все данные подгружаются из json-файла.<br>
 - Дополняется работами (более свежие сверху)<br>
+- Сайт размещен:<br>
+<a href="https://marin-mar.github.io/" rel="noreferrer" target="blank" >https://marin-mar.github.io/</a><br>
 </h3>
 ================================
 <h2>Welcome to the web portfolio</h2>
@@ -14,4 +16,6 @@
 - There was a version on Pug, redone on React.<br>
 - All data is loaded from the json-file.<br>
 - Supplemented with works (more recent from above)<br>
+- Site is published at:<br>
+<a href="https://marin-mar.github.io/" rel="noreferrer" target="blank" >https://marin-mar.github.io/</a><br>
 </h3>
