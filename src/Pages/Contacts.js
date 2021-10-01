@@ -19,6 +19,8 @@ export const Contacts = () => {
                 src={contact.src}
                 className="row w-30 mx-auto"
                 alt={contact.text}
+                width='64'
+                height='64'
               />
               <p className="row d-block text-center">
                 <Trans i18nKey={contact.text}>{contact.text}</Trans>

@@ -15,6 +15,15 @@
   },
   "works": [
     {
+      "id": "BoardGame",
+      "title": "BoardGame",
+      "titleRu": "Игра BoardGame",
+      "text": "Game on HTML, CSS, JS. Click on the appearing circles to remove them from the board",
+      "textRu": "Игра на HTML, CSS, JS. Кликайте на появляющиеся кружки, чтобы убрать их с доски",
+      "src": "../Images/works_BoardGame.png",
+      "link": "https://marin-mar.github.io/BoardGame/"
+    },
+    {
       "id": "Furniture",
       "title": "Landing Page of the furniture store",
       "titleRu": "Лэндинг магазина мебели",
@@ -33,6 +42,24 @@
       "link": "https://marin-mar.github.io/motoring/"
     },
     {
+      "id": "SliderGallery",
+      "title": "SliderGallery",
+      "titleRu": "Галерея слайдов",
+      "text": "SliderGallery. HTML, CSS, JavaScript. Scrolling in reverse order",
+      "textRu": "Галерея слайдов. HTML, CSS, JavaScript. Прокрутка в обратном порядке",
+      "src": "../Images/works_SliderGallery.png",
+      "link": "https://marin-mar.github.io/SliderGallery/"
+    },
+    {
+      "id": "DragAndDrop",
+      "title": "TO-DO List DragAndDrop",
+      "titleRu": "Список дел DragAndDrop",
+      "text": "TO-DO List with drag & drop. HTML, CSS, JavaScript. The case might be draggable from column to column",
+      "textRu": "Список дел с drag & drop. HTML, CSS, JavaScript. Можно перетаскивать дело из колонки в колонку",
+      "src": "../Images/works_DragAndDrop.png",
+      "link": "https://marin-mar.github.io/DragAndDrop/"
+    },
+    {
       "id": "Insurance",
       "title": "Landing Page for Insurance",
       "titleRu": "Лэндинг страхования Insurance",
@@ -49,6 +76,15 @@
       "textRu": "Создано с использованием HTML, SCSS, JQuery",
       "src": "../Images/works_bakery.jpg",
       "link": "https://marin-mar.github.io/bakery/"
+    },
+    {
+      "id": "CardsGallery",
+      "title": "Cards Gallery",
+      "titleRu": "Галерея карточек",
+      "text": "CardsGallery. HTML, CSS, JavaScript. Cards gallery with stylized buttons",
+      "textRu": "CardsGallery. HTML, CSS, JavaScript. Галерея карточек со стилизованными кномпками",
+      "src": "../Images/works_CardsGallery.png",
+      "link": "https://marin-mar.github.io/CardsGallery/"
     },
     {
       "id": "Construction",
@@ -102,8 +138,8 @@
     },
     {
       "id": "JavaScriptAlgorithms",
-      "link": "../Images/certificats_TemplateMonster_HTML,CSS.jpg",
-      "src": "https://certification.templatemonster.com/certificates/f78a485861f134e157140b3bd1adb0bf/",
+      "link": "https://certification.templatemonster.com/certificates/f78a485861f134e157140b3bd1adb0bf/",
+      "src": "../Images/certificats_TemplateMonster_HTML,CSS.jpg",
       "alt": "HTML5,CSS Certification by TemplateMonster"
     }
   ],
@@ -190,6 +226,13 @@
       "text": "CodePen",
       "src": "../Images/contacts_codepen.png",
       "link": "https://codepen.io/marinmar/pens/public",
+      "btn": "Visit"
+    },
+    {
+      "id": "jsfiddle",
+      "text": "jsfiddle",
+      "src": "../Images/contacts_jsfiddle.png",
+      "link": "https://jsfiddle.net/user/marinmar/fiddles/",
       "btn": "Visit"
     },
     {
