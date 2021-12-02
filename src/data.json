@@ -7,13 +7,22 @@
     "titleEn": "Welcome to Personal Portfolio Webpage",
     "titleRu": "Добро пожаловать на страницу веб-портфолио",
     "subtitleEn": "of web developer marinmar",
-    "subtitleRu": "верстальщика marinmar",
+    "subtitleRu": "веб-разработчика marinmar",
     "btn-1En": "Works",
     "btn-1Ru": "Работы",
     "btn-2En": "About",
     "btn-2Ru": "Обо мне"
   },
   "works": [
+    {
+      "id": "serviceokna",
+      "title": "Website 'serviceokna'",
+      "titleRu": "Сайт 'СервисОкна'",
+      "text": "Website with JS. Modular JS structure, Gulp + Webpack bundle, Timer, Forms, Tabs, Sending data",
+      "textRu": "Верстка была, подключен JS. Модульная структура JS, сборка Gulp + Webpack, Таймер, Формы, Табы, Отправка данных из форм",
+      "src": "../Images/works_serviceokna.jpg",
+      "link": "https://marin-mar.github.io/serviceoknaJS/"
+    },
     {
       "id": "BoardGame",
       "title": "BoardGame",
@@ -43,7 +52,7 @@
     },
     {
       "id": "SliderGallery",
-      "title": "SliderGallery",
+      "title": "Slider Gallery",
       "titleRu": "Галерея слайдов",
       "text": "SliderGallery. HTML, CSS, JavaScript. Scrolling in reverse order",
       "textRu": "Галерея слайдов. HTML, CSS, JavaScript. Прокрутка в обратном порядке",
@@ -141,6 +150,12 @@
       "link": "https://certification.templatemonster.com/certificates/f78a485861f134e157140b3bd1adb0bf/",
       "src": "../Images/certificats_TemplateMonster_HTML,CSS.jpg",
       "alt": "HTML5,CSS Certification by TemplateMonster"
+    },
+    {
+      "id": "CMS WordPress",
+      "link": "https://www.udemy.com/certificate/UC-98b6d39b-ce26-41b4-8ddd-df493782c7fd/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email",
+      "src": "../Images/certificats_CMS WordPress.jpg",
+      "alt": "Посадка верстки и создание тем на CMS WordPress"
     }
   ],
   "skills": [
@@ -169,6 +184,10 @@
       "icon": "../Images/skills_Bootstrap.svg"
     },
     {
+      "id": "CMS Wordpress",
+      "icon": "../Images/skills_Wordpress.svg"
+    },
+    {
       "id": "jQuery",
       "icon": "../Images/skills_jQuery.svg"
     },
@@ -187,6 +206,10 @@
     {
       "id": "Gulp",
       "icon": "../Images/skills_Gulp.svg"
+    },
+    {
+      "id": "Webpack",
+      "icon": "../Images/skills_Webpack.svg"
     },
     {
       "id": "GitHub",
