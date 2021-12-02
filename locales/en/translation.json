@@ -67,5 +67,7 @@
   "Список дел DragAndDrop": "TO-DO List DragAndDrop",
   "Список дел с drag & drop. HTML, CSS, JavaScript. Можно перетаскивать дело из колонки в колонку": "TO-DO List with drag & drop. HTML, CSS, JavaScript. The case might be draggable from column to column",
   "Галерея карточек": "Cards Gallery",
-  "CardsGallery. HTML, CSS, JavaScript. Галерея карточек со стилизованными кномпками": "CardsGallery. HTML, CSS, JavaScript. Cards gallery with stylized buttons"
+  "CardsGallery. HTML, CSS, JavaScript. Галерея карточек со стилизованными кномпками": "CardsGallery. HTML, CSS, JavaScript. Cards gallery with stylized buttons",
+  "Сайт 'СервисОкна'": "Website 'serviceokna'",
+  "Верстка была, подключен JS. Модульная структура JS, сборка Gulp + Webpack, Таймер, Формы, Табы, Отправка данных из форм": "Website with JS. Modular JS structure, Gulp + Webpack bundle, Timer, Forms, Tabs, Sending data"
 }
