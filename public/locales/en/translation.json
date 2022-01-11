@@ -69,5 +69,9 @@
   "Галерея карточек": "Cards Gallery",
   "CardsGallery. HTML, CSS, JavaScript. Галерея карточек со стилизованными кномпками": "CardsGallery. HTML, CSS, JavaScript. Cards gallery with stylized buttons",
   "Сайт 'СервисОкна'": "Website 'serviceokna'",
-  "Верстка была, подключен JS. Модульная структура JS, сборка Gulp + Webpack, Таймер, Формы, Табы, Отправка данных из форм": "Website with JS. Modular JS structure, Gulp + Webpack bundle, Timer, Forms, Tabs, Sending data"
+  "Верстка была, подключен JS. Модульная структура JS, сборка Gulp + Webpack, Таймер, Формы, Табы, Отправка данных из форм": "Website with JS. Modular JS structure, Gulp + Webpack bundle, Timer, Forms, Tabs, Sending data",
+  "React-приложение Bonus To Staff": "Bonus To Staff React App",
+  "SPA, CSS, Учет сотрудников в компании, вычисления, поиск, удаление, добавление, премирование, повышение": "SPA, CSS, Accounting of employees in the company, calculations, search, deleting, adding, bonuses, promotion",
+  "React-приложение Marvel Universe": "Marvel Universe React App",
+  "Marvel API, SPA, SCSS, Загрузка с сервера, Форма, Компоненты, Роутинг, Ленивая загрузка страниц, SEO": "Marvel API, SPA, SCSS, Loading from server, Form, Components, Routing, Lazy, SEO"
 }

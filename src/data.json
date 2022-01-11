@@ -15,6 +15,24 @@
   },
   "works": [
     {
+      "id": "MarvelUniverseApp",
+      "title": "Marvel Universe React App",
+      "titleRu": "React-приложение Marvel Universe",
+      "text": "Marvel API, SPA, SCSS, Loading from server, Form, Components, Routing, Lazy, SEO",
+      "textRu": "Marvel API, SPA, SCSS, Загрузка с сервера, Форма, Компоненты, Роутинг, Ленивая загрузка страниц, SEO",
+      "src": "../Images/works_MarvelUniverseApp.jpg",
+      "link": "https://marin-mar.github.io/marvel-universe_app/"
+    },
+    {
+      "id": "BonusToStaffApp",
+      "title": "Bonus To Staff React App",
+      "titleRu": "React-приложение Bonus To Staff",
+      "text": "SPA, CSS, Accounting of employees in the company, calculations, search, deleting, adding, bonuses, promotion",
+      "textRu": "SPA, CSS, Учет сотрудников в компании, вычисления, поиск, удаление, добавление, премирование, повышение",
+      "src": "../Images/works_BonusToStaffApp.jpg",
+      "link": "https://marin-mar.github.io/bonus-to-staff_app/"
+    },
+    {
       "id": "serviceokna",
       "title": "Website 'serviceokna'",
       "titleRu": "Сайт 'СервисОкна'",
@@ -134,6 +152,18 @@
   ],
   "certificats": [
     {
+      "id": "PracticalJavaScript",
+      "link": "https://www.udemy.com/certificate/UC-e495692b-dd2f-4040-a6a9-3e25d72d2c21/",
+      "src": "../Images/certificats_PracticalJavaScript.jpg",
+      "alt": "Практический JavaScript (Продвинутый уровень)"
+    },
+    {
+      "id": "CMS WordPress",
+      "link": "https://www.udemy.com/certificate/UC-98b6d39b-ce26-41b4-8ddd-df493782c7fd/",
+      "src": "../Images/certificats_CMS WordPress.jpg",
+      "alt": "Посадка верстки и создание тем на CMS WordPress"
+    },
+    {
       "id": "ResponsiveWebDesign",
       "link": "https://www.freecodecamp.org/certification/marinmar/responsive-web-design",
       "src": "../Images/certificats_ResponsiveWebDesign.jpg",
@@ -146,16 +176,10 @@
       "alt": "freeCodeCamp.org JavaScript Algorithms and Data Structures Certification"
     },
     {
-      "id": "JavaScriptAlgorithms",
+      "id": "TemplateMonsterHTMLCSS",
       "link": "https://certification.templatemonster.com/certificates/f78a485861f134e157140b3bd1adb0bf/",
       "src": "../Images/certificats_TemplateMonster_HTML,CSS.jpg",
       "alt": "HTML5,CSS Certification by TemplateMonster"
-    },
-    {
-      "id": "CMS WordPress",
-      "link": "https://www.udemy.com/certificate/UC-98b6d39b-ce26-41b4-8ddd-df493782c7fd/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email",
-      "src": "../Images/certificats_CMS WordPress.jpg",
-      "alt": "Посадка верстки и создание тем на CMS WordPress"
     }
   ],
   "skills": [
