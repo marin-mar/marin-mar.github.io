@@ -152,6 +152,12 @@
   ],
   "certificats": [
     {
+      "id": "JavaScript+React+Redux",
+      "link": "https://www.udemy.com/certificate/UC-e454b889-092f-46fa-9795-a1026ba8b9bb/",
+      "src": "../Images/certificats_JavaScript+React+Redux.jpg",
+      "alt": "Полный курс по JavaScript + React - с нуля до результата"
+    },
+    {
       "id": "PracticalJavaScript",
       "link": "https://www.udemy.com/certificate/UC-e495692b-dd2f-4040-a6a9-3e25d72d2c21/",
       "src": "../Images/certificats_PracticalJavaScript.jpg",
