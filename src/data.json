@@ -152,6 +152,12 @@
   ],
   "certificats": [
     {
+      "id": "UnderstandingTypeScript2022Edition",
+      "link": "https://www.udemy.com/certificate/UC-7e4e5882-13ba-47ab-a0b3-be9d8ec07cb0/",
+      "src": "../Images/certificats_UnderstandingTypeScript2022Edition.jpg",
+      "alt": "Understanding TypeScript - 2022 Edition"
+    },
+    {
       "id": "JavaScript+React+Redux",
       "link": "https://www.udemy.com/certificate/UC-e454b889-092f-46fa-9795-a1026ba8b9bb/",
       "src": "../Images/certificats_JavaScript+React+Redux.jpg",
@@ -164,7 +170,7 @@
       "alt": "Практический JavaScript (Продвинутый уровень)"
     },
     {
-      "id": "CMS WordPress",
+      "id": "CMSWordPress",
       "link": "https://www.udemy.com/certificate/UC-98b6d39b-ce26-41b4-8ddd-df493782c7fd/",
       "src": "../Images/certificats_CMS WordPress.jpg",
       "alt": "Посадка верстки и создание тем на CMS WordPress"
